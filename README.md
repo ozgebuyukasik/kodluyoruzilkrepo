@@ -2,7 +2,7 @@
 It's my first repo that created for Kodluyoruz Front-end Course.
 It contains a README and an index.html file. 
 
-
+![Repository](repo.png)
 
 # Installation
 First of all, clone the repository.
